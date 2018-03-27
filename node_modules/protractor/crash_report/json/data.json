@@ -1,0 +1,11 @@
+{
+	"lawyeradmin":
+	[{"email" : "lawyeradmin7", "password" : "lawyeradmin7"}
+	 
+	],
+
+	"lawyer":
+	[{"email" : "lawyer34", "password" : "lawyer34"}
+	 
+	]
+}
